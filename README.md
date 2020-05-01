@@ -8,6 +8,3 @@ I got this idea from a programmer on youtube but made it my own by making auto s
 
 **This program is set up to run on startup for me and doesn't take up much CPU.*
 
-## Video Example
-
-<video src="video.mp4" width="320" height="200" controls preload></video>
